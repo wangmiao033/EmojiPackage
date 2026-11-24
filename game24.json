@@ -1,0 +1,1005 @@
+{
+ "file": "game24.png",
+ "frames": {
+  "chat_bqb_44": {
+   "x": 1,
+   "y": 1,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_45": {
+   "x": 27,
+   "y": 1,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_46": {
+   "x": 53,
+   "y": 1,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_47": {
+   "x": 79,
+   "y": 1,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_48": {
+   "x": 105,
+   "y": 1,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_49": {
+   "x": 131,
+   "y": 1,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_50": {
+   "x": 157,
+   "y": 1,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_51": {
+   "x": 183,
+   "y": 1,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_52": {
+   "x": 209,
+   "y": 1,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_53": {
+   "x": 235,
+   "y": 1,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_54": {
+   "x": 1,
+   "y": 27,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_55": {
+   "x": 27,
+   "y": 27,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_56": {
+   "x": 53,
+   "y": 27,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_57": {
+   "x": 79,
+   "y": 27,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_58": {
+   "x": 105,
+   "y": 27,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_59": {
+   "x": 131,
+   "y": 27,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_60": {
+   "x": 157,
+   "y": 27,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_61": {
+   "x": 183,
+   "y": 27,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_62": {
+   "x": 209,
+   "y": 27,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_63": {
+   "x": 235,
+   "y": 27,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_64": {
+   "x": 1,
+   "y": 53,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_65": {
+   "x": 27,
+   "y": 53,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_66": {
+   "x": 53,
+   "y": 53,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_67": {
+   "x": 79,
+   "y": 53,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_68": {
+   "x": 105,
+   "y": 53,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_69": {
+   "x": 131,
+   "y": 53,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_70": {
+   "x": 157,
+   "y": 53,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_71": {
+   "x": 183,
+   "y": 53,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_72": {
+   "x": 209,
+   "y": 53,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_73": {
+   "x": 235,
+   "y": 53,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_74": {
+   "x": 1,
+   "y": 79,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_75": {
+   "x": 27,
+   "y": 79,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_76": {
+   "x": 53,
+   "y": 79,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_77": {
+   "x": 79,
+   "y": 79,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_78": {
+   "x": 105,
+   "y": 79,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_79": {
+   "x": 131,
+   "y": 79,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_80": {
+   "x": 157,
+   "y": 79,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_81": {
+   "x": 183,
+   "y": 79,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_82": {
+   "x": 209,
+   "y": 79,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_83": {
+   "x": 235,
+   "y": 79,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_84": {
+   "x": 1,
+   "y": 105,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_85": {
+   "x": 27,
+   "y": 105,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_86": {
+   "x": 53,
+   "y": 105,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_87": {
+   "x": 79,
+   "y": 105,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_88": {
+   "x": 105,
+   "y": 105,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_89": {
+   "x": 131,
+   "y": 105,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_90": {
+   "x": 157,
+   "y": 105,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_91": {
+   "x": 183,
+   "y": 105,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_92": {
+   "x": 209,
+   "y": 105,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_93": {
+   "x": 235,
+   "y": 105,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_94": {
+   "x": 1,
+   "y": 131,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_95": {
+   "x": 27,
+   "y": 131,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_96": {
+   "x": 53,
+   "y": 131,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_97": {
+   "x": 79,
+   "y": 131,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_98": {
+   "x": 105,
+   "y": 131,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_99": {
+   "x": 131,
+   "y": 131,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_100": {
+   "x": 157,
+   "y": 131,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_101": {
+   "x": 183,
+   "y": 131,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_102": {
+   "x": 209,
+   "y": 131,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_103": {
+   "x": 235,
+   "y": 131,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_104": {
+   "x": 1,
+   "y": 157,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_105": {
+   "x": 27,
+   "y": 157,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_106": {
+   "x": 53,
+   "y": 157,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_107": {
+   "x": 79,
+   "y": 157,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_108": {
+   "x": 105,
+   "y": 157,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_109": {
+   "x": 131,
+   "y": 157,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_110": {
+   "x": 157,
+   "y": 157,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_111": {
+   "x": 183,
+   "y": 157,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_112": {
+   "x": 209,
+   "y": 157,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_113": {
+   "x": 235,
+   "y": 157,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_114": {
+   "x": 1,
+   "y": 183,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_115": {
+   "x": 27,
+   "y": 183,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_116": {
+   "x": 53,
+   "y": 183,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_117": {
+   "x": 79,
+   "y": 183,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_118": {
+   "x": 105,
+   "y": 183,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_119": {
+   "x": 131,
+   "y": 183,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_120": {
+   "x": 157,
+   "y": 183,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_121": {
+   "x": 183,
+   "y": 183,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_122": {
+   "x": 209,
+   "y": 183,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_123": {
+   "x": 235,
+   "y": 183,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_124": {
+   "x": 1,
+   "y": 209,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_125": {
+   "x": 27,
+   "y": 209,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_126": {
+   "x": 53,
+   "y": 209,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_127": {
+   "x": 79,
+   "y": 209,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_128": {
+   "x": 105,
+   "y": 209,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_129": {
+   "x": 131,
+   "y": 209,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_130": {
+   "x": 157,
+   "y": 209,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_131": {
+   "x": 183,
+   "y": 209,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_132": {
+   "x": 209,
+   "y": 209,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_133": {
+   "x": 235,
+   "y": 209,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_134": {
+   "x": 1,
+   "y": 235,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_135": {
+   "x": 27,
+   "y": 235,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_136": {
+   "x": 53,
+   "y": 235,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_137": {
+   "x": 79,
+   "y": 235,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_138": {
+   "x": 105,
+   "y": 235,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_139": {
+   "x": 131,
+   "y": 235,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_140": {
+   "x": 157,
+   "y": 235,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_141": {
+   "x": 183,
+   "y": 235,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_142": {
+   "x": 209,
+   "y": 235,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  },
+  "chat_bqb_143": {
+   "x": 235,
+   "y": 235,
+   "w": 24,
+   "h": 24,
+   "offX": 0,
+   "offY": 0,
+   "sourceW": 24,
+   "sourceH": 24
+  }
+ }
+}
