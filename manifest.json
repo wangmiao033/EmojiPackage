@@ -1,0 +1,334 @@
+{
+  "version": "1.0.0",
+  "source_repository": "https://github.com/wangmiao033/EmojiPackage",
+  "source_commit": "6110519a8340b36ae3497c4b062292ca25291b61",
+  "license_status": "third-party assets; commercial rights unverified",
+  "count": 32,
+  "static_count": 24,
+  "animated_count": 8,
+  "total_bytes": 61610,
+  "static_bytes": 37716,
+  "animated_bytes": 23894,
+  "items": [
+    {
+      "id": 1,
+      "key": "eat_melon",
+      "name_zh": "吃瓜",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1097,
+      "path": "emoji/static/001_eat_melon.jpg",
+      "source_path": "小鹦鹉/吃瓜.jpg"
+    },
+    {
+      "id": 2,
+      "key": "think",
+      "name_zh": "思考",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1100,
+      "path": "emoji/static/002_think.jpg",
+      "source_path": "小鹦鹉/思考.jpg"
+    },
+    {
+      "id": 3,
+      "key": "surprised",
+      "name_zh": "吃惊",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1282,
+      "path": "emoji/static/003_surprised.jpg",
+      "source_path": "小鹦鹉/吃惊.jpg"
+    },
+    {
+      "id": 4,
+      "key": "stunned",
+      "name_zh": "呆滞",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1144,
+      "path": "emoji/static/004_stunned.jpg",
+      "source_path": "小鹦鹉/呆滞.jpg"
+    },
+    {
+      "id": 5,
+      "key": "like",
+      "name_zh": "喜欢",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1606,
+      "path": "emoji/static/005_like.jpg",
+      "source_path": "小鹦鹉/喜欢.jpg"
+    },
+    {
+      "id": 6,
+      "key": "sad",
+      "name_zh": "伤心",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1409,
+      "path": "emoji/static/006_sad.jpg",
+      "source_path": "小鹦鹉/伤心.jpg"
+    },
+    {
+      "id": 7,
+      "key": "cry",
+      "name_zh": "大哭",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1258,
+      "path": "emoji/static/007_cry.jpg",
+      "source_path": "小鹦鹉/大哭.jpg"
+    },
+    {
+      "id": 8,
+      "key": "smirk",
+      "name_zh": "坏笑",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1248,
+      "path": "emoji/static/008_smirk.jpg",
+      "source_path": "小鹦鹉/坏笑.jpg"
+    },
+    {
+      "id": 9,
+      "key": "expect",
+      "name_zh": "期待",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1278,
+      "path": "emoji/static/009_expect.jpg",
+      "source_path": "小鹦鹉/期待.jpg"
+    },
+    {
+      "id": 10,
+      "key": "thumbs_up",
+      "name_zh": "点赞",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1340,
+      "path": "emoji/static/010_thumbs_up.jpg",
+      "source_path": "小鹦鹉/点赞.jpg"
+    },
+    {
+      "id": 11,
+      "key": "speechless",
+      "name_zh": "无语",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1508,
+      "path": "emoji/static/011_speechless.jpg",
+      "source_path": "小鹦鹉/无语.jpg"
+    },
+    {
+      "id": 12,
+      "key": "sleepy",
+      "name_zh": "犯困",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1346,
+      "path": "emoji/static/012_sleepy.jpg",
+      "source_path": "小鹦鹉/犯困.jpg"
+    },
+    {
+      "id": 13,
+      "key": "sleep",
+      "name_zh": "睡觉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1277,
+      "path": "emoji/static/013_sleep.jpg",
+      "source_path": "小鹦鹉/睡觉.jpg"
+    },
+    {
+      "id": 14,
+      "key": "question",
+      "name_zh": "问号",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 2235,
+      "path": "emoji/static/014_question.jpg",
+      "source_path": "小鹦鹉/问号.jpg"
+    },
+    {
+      "id": 15,
+      "key": "doubt",
+      "name_zh": "怀疑",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1731,
+      "path": "emoji/static/015_doubt.jpg",
+      "source_path": "小鹦鹉/怀疑.jpg"
+    },
+    {
+      "id": 16,
+      "key": "watch",
+      "name_zh": "看着你",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1286,
+      "path": "emoji/static/016_watch.jpg",
+      "source_path": "小鹦鹉/看着你.jpg"
+    },
+    {
+      "id": 17,
+      "key": "peek",
+      "name_zh": "偷看",
+      "type": "static",
+      "format": "png",
+      "bytes": 2690,
+      "path": "emoji/static/017_peek.png",
+      "source_path": "小鹦鹉/偷看.png"
+    },
+    {
+      "id": 18,
+      "key": "drink_water",
+      "name_zh": "喝水",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1357,
+      "path": "emoji/static/018_drink_water.jpg",
+      "source_path": "小鹦鹉/喝水.jpg"
+    },
+    {
+      "id": 19,
+      "key": "noodles",
+      "name_zh": "吃面",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1313,
+      "path": "emoji/static/019_noodles.jpg",
+      "source_path": "小鹦鹉/吃面.jpg"
+    },
+    {
+      "id": 20,
+      "key": "lie_flat",
+      "name_zh": "躺平",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1514,
+      "path": "emoji/static/020_lie_flat.jpg",
+      "source_path": "小鹦鹉/躺平.jpg"
+    },
+    {
+      "id": 21,
+      "key": "cool",
+      "name_zh": "耍酷",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 3535,
+      "path": "emoji/static/021_cool.jpg",
+      "source_path": "小鹦鹉/耍酷.jpg"
+    },
+    {
+      "id": 22,
+      "key": "freeze",
+      "name_zh": "愣住",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1373,
+      "path": "emoji/static/022_freeze.jpg",
+      "source_path": "小鹦鹉/愣住.jpg"
+    },
+    {
+      "id": 23,
+      "key": "sob",
+      "name_zh": "捂嘴哭",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1475,
+      "path": "emoji/static/023_sob.jpg",
+      "source_path": "小鹦鹉/捂嘴哭.jpg"
+    },
+    {
+      "id": 24,
+      "key": "pinch_cheek",
+      "name_zh": "捏脸",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 2314,
+      "path": "emoji/static/024_pinch_cheek.jpg",
+      "source_path": "小鹦鹉/捏脸.jpg"
+    },
+    {
+      "id": 25,
+      "key": "scratch_head",
+      "name_zh": "挠头",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 1985,
+      "path": "emoji/animated/025_scratch_head.gif",
+      "source_path": "小鹦鹉/挠头.gif"
+    },
+    {
+      "id": 26,
+      "key": "wave_balloon",
+      "name_zh": "摇气球",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 2068,
+      "path": "emoji/animated/026_wave_balloon.gif",
+      "source_path": "小鹦鹉/摇气球.gif"
+    },
+    {
+      "id": 27,
+      "key": "milk_tea",
+      "name_zh": "喝奶茶",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 2078,
+      "path": "emoji/animated/027_milk_tea.gif",
+      "source_path": "小鹦鹉/喝奶茶.gif"
+    },
+    {
+      "id": 28,
+      "key": "rabbit_ears",
+      "name_zh": "兔耳朵",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 2531,
+      "path": "emoji/animated/028_rabbit_ears.gif",
+      "source_path": "小鹦鹉/兔耳朵.gif"
+    },
+    {
+      "id": 29,
+      "key": "energized",
+      "name_zh": "精神抖擞",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 3122,
+      "path": "emoji/animated/029_energized.gif",
+      "source_path": "小鹦鹉/精神抖擞.gif"
+    },
+    {
+      "id": 30,
+      "key": "wide_eyes",
+      "name_zh": "瞪大眼",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 3664,
+      "path": "emoji/animated/030_wide_eyes.gif",
+      "source_path": "小鹦鹉/瞪大眼.gif"
+    },
+    {
+      "id": 31,
+      "key": "popcorn",
+      "name_zh": "吃爆米花",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 3929,
+      "path": "emoji/animated/031_popcorn.gif",
+      "source_path": "小鹦鹉/吃爆米花.gif"
+    },
+    {
+      "id": 32,
+      "key": "phone",
+      "name_zh": "玩手机",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 4517,
+      "path": "emoji/animated/032_phone.gif",
+      "source_path": "小鹦鹉/玩手机.gif"
+    }
+  ]
+}

@@ -1,257 +1,46 @@
-* 项目地址：[Github](https://github.com/getActivity/EmojiPackage)、[码云](https://gitee.com/getActivity/EmojiPackage)
-
-* [程序员的第一款表情包，你值得拥有](https://www.jianshu.com/p/1637d0c0ca00)
-
-* [表情包用得好，女朋友不用找](https://www.jianshu.com/p/733f84e5478f)
-
-* [知乎回答：有哪些让你一秒变开心的表情包？](https://www.zhihu.com/question/302378021/answer/566082218)
-
-* 在这个人心浮躁的社会，用文字来沟通往往不尽人意，所以现在我们更喜欢用表情包生动形象表达我们此时此刻的言语
-
-* 但是表情包在通过日积月累，会越来越多，这时找起表情包十分的麻烦，这时你需要这款经过整理的表情包
-
-## 安排
-
-![](picture/安排.jpg)
-
-## 搬砖
-
-![](picture/搬砖.jpg)
-
-## 背锅
-
-![](picture/背锅.jpg)
-
-## 操作
-
-![](picture/操作.jpg)
-
-## 撤回
-
-![](picture/撤回.jpg)
-
-## 程序员
-
-![](picture/程序员.jpg)
-
-## 丑
-
-![](picture/丑.jpg)
-
-## 大佬
-
-![](picture/大佬.jpg)
-
-## 单身
-
-![](picture/单身.jpg)
-
-## 斗图
-
-![](picture/斗图.jpg)
-
-## 尔康
-
-![](picture/尔康.jpg)
-
-## 反问
-
-![](picture/反问.jpg)
-
-## 敷衍
-
-![](picture/敷衍.jpg)
-
-## 富婆
-
-![](picture/富婆.jpg)
-
-## 干架
-
-![](picture/干架.jpg)
-
-## 鸽子
-
-![](picture/鸽子.jpg)
-
-## 格局
-
-![](picture/格局.jpg)
-
-## 工作
-
-![](picture/工作.jpg)
-
-## 害怕
-
-![](picture/害怕.jpg)
-
-## 红包
-
-![](picture/红包.jpg)
-
-## 滑稽
-
-![](picture/滑稽.jpg)
-
-## 回答
-
-![](picture/回答.jpg)
-
-## 基佬
-
-![](picture/基佬.jpg)
-
-## 金钱
-
-![](picture/金钱.jpg)
-
-## 开车
-
-![](picture/开车.jpg)
-
-## 夸奖
-
-![](picture/夸奖.jpg)
-
-## 撩妹
-
-![](picture/撩妹.jpg)
-
-## 罗翔
-
-![](picture/罗翔.jpg)
-
-## 难过
-
-![](picture/难过.jpg)
-
-## 群聊
-
-![](picture/群聊.jpg)
-
-## 三连
-
-![](picture/三连.jpg)
-
-## 身材
-
-![](picture/身材.jpg)
-
-## 睡觉
-
-![](picture/睡觉.jpg)
-
-## 套路
-
-![](picture/套路.jpg)
-
-## 套图
-
-![](picture/套图.jpg)
-
-## 天气
-
-![](picture/天气.jpg)
-
-## 文章
-
-![](picture/文章.jpg)
-
-## 文字
-
-![](picture/文字.jpg)
-
-## 咸鱼
-
-![](picture/咸鱼.jpg)
-
-## 小鹦鹉
-
-![](picture/小鹦鹉.jpg)
-
-## 学习
-
-![](picture/学习.jpg)
-
-## 鸭子
-
-![](picture/鸭子.jpg)
-
-## 药丸
-
-![](picture/药丸.jpg)
-
-## 鹦鹉兄弟
-
-![](picture/鹦鹉兄弟.jpg)
-
-## 抓获
-
-![](picture/抓获.jpg)
-
-## 装逼
-
-![](picture/装逼.jpg)
-
-## 自恋
-
-![](picture/自恋.jpg)
-
-## B数
-
-![](picture/B数.jpg)
-
-#### 两千多个表情包，如果查找需要的表情包，可直接搜索关键字
-
-#### 强烈建议将此项目作为 Git 版本管理项目，享受永久更新
-
-#### 微信公众号：Android轮子哥
-
-![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/official_ccount.png)
-
-#### 请扫描下方的二维码随意打赏，要是能打赏个 10.24 :monkey_face:就太:thumbsup:了。您的支持将鼓励我继续创作:octocat:
-
-![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_ali.png) ![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_wechat.png)
-
-#### [点击查看捐赠列表](https://github.com/getActivity/Donate)
-
-#### 作者其他开源项目
-
-* 安卓技术中台：[AndroidProject](https://github.com/getActivity/AndroidProject)
-
-* 网络框架：[EasyHttp](https://github.com/getActivity/EasyHttp)
-
-* 吐司框架：[ToastUtils](https://github.com/getActivity/ToastUtils)
-
-* 权限框架：[XXPermissions](https://github.com/getActivity/XXPermissions)
-
-* 标题栏框架：[TitleBar](https://github.com/getActivity/TitleBar)
-
-* 悬浮窗框架：[XToast](https://github.com/getActivity/XToast)
-
-* 国际化框架：[MultiLanguages](https://github.com/getActivity/MultiLanguages)
-
-* Shape 框架：[ShapeView](https://github.com/getActivity/ShapeView)
-
-* Gson 解析容错：[GsonFactory](https://github.com/getActivity/GsonFactory)
-
-* 日志查看框架：[Logcat](https://github.com/getActivity/Logcat)
-
-## License
-
-```text
-Copyright 2018 Huang JinQun
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
+# Game Emoji Lite / 游戏轻量表情库
+
+从 [EmojiPackage](https://github.com/wangmiao033/EmojiPackage/tree/6110519a8340b36ae3497c4b062292ca25291b61) 的小鹦鹉目录精选，供游戏聊天 UI 原型、联调与版权审核使用。
+
+- 版本：v1.0.0
+- 24 张静态图 + 8 张 GIF，共 32 张。
+- 静态：37716 bytes（36.83 KiB）；动态：23894 bytes（23.33 KiB）；合计：61610 bytes（60.17 KiB）。不含说明文档；1 KiB = 1024 bytes。
+- 所有图像均保留原始字节，不重新编码；使用稳定的数字 ID 和英文文件名。
+- 这是候选素材库，**不代表获得商业使用授权**。正式发行前必须确认每张图像的授权并审核内容。
+
+## 静态表情（推荐默认启用）
+
+| <img src="emoji/static/001_eat_melon.jpg" width="48" alt="吃瓜"> | <img src="emoji/static/002_think.jpg" width="48" alt="思考"> | <img src="emoji/static/003_surprised.jpg" width="48" alt="吃惊"> | <img src="emoji/static/004_stunned.jpg" width="48" alt="呆滞"> |
+| --- | --- | --- | --- |
+| 001 吃瓜<br>1.07 KiB | 002 思考<br>1.07 KiB | 003 吃惊<br>1.25 KiB | 004 呆滞<br>1.12 KiB |
+| <img src="emoji/static/005_like.jpg" width="48" alt="喜欢"> | <img src="emoji/static/006_sad.jpg" width="48" alt="伤心"> | <img src="emoji/static/007_cry.jpg" width="48" alt="大哭"> | <img src="emoji/static/008_smirk.jpg" width="48" alt="坏笑"> |
+| 005 喜欢<br>1.57 KiB | 006 伤心<br>1.38 KiB | 007 大哭<br>1.23 KiB | 008 坏笑<br>1.22 KiB |
+| <img src="emoji/static/009_expect.jpg" width="48" alt="期待"> | <img src="emoji/static/010_thumbs_up.jpg" width="48" alt="点赞"> | <img src="emoji/static/011_speechless.jpg" width="48" alt="无语"> | <img src="emoji/static/012_sleepy.jpg" width="48" alt="犯困"> |
+| 009 期待<br>1.25 KiB | 010 点赞<br>1.31 KiB | 011 无语<br>1.47 KiB | 012 犯困<br>1.31 KiB |
+| <img src="emoji/static/013_sleep.jpg" width="48" alt="睡觉"> | <img src="emoji/static/014_question.jpg" width="48" alt="问号"> | <img src="emoji/static/015_doubt.jpg" width="48" alt="怀疑"> | <img src="emoji/static/016_watch.jpg" width="48" alt="看着你"> |
+| 013 睡觉<br>1.25 KiB | 014 问号<br>2.18 KiB | 015 怀疑<br>1.69 KiB | 016 看着你<br>1.26 KiB |
+| <img src="emoji/static/017_peek.png" width="48" alt="偷看"> | <img src="emoji/static/018_drink_water.jpg" width="48" alt="喝水"> | <img src="emoji/static/019_noodles.jpg" width="48" alt="吃面"> | <img src="emoji/static/020_lie_flat.jpg" width="48" alt="躺平"> |
+| 017 偷看<br>2.63 KiB | 018 喝水<br>1.33 KiB | 019 吃面<br>1.28 KiB | 020 躺平<br>1.48 KiB |
+| <img src="emoji/static/021_cool.jpg" width="48" alt="耍酷"> | <img src="emoji/static/022_freeze.jpg" width="48" alt="愣住"> | <img src="emoji/static/023_sob.jpg" width="48" alt="捂嘴哭"> | <img src="emoji/static/024_pinch_cheek.jpg" width="48" alt="捏脸"> |
+| 021 耍酷<br>3.45 KiB | 022 愣住<br>1.34 KiB | 023 捂嘴哭<br>1.44 KiB | 024 捏脸<br>2.26 KiB |
+
+## 动态表情（客户端支持 GIF 时启用）
+
+| <img src="emoji/animated/025_scratch_head.gif" width="48" alt="挠头"> | <img src="emoji/animated/026_wave_balloon.gif" width="48" alt="摇气球"> | <img src="emoji/animated/027_milk_tea.gif" width="48" alt="喝奶茶"> | <img src="emoji/animated/028_rabbit_ears.gif" width="48" alt="兔耳朵"> |
+| --- | --- | --- | --- |
+| 025 挠头<br>1.94 KiB | 026 摇气球<br>2.02 KiB | 027 喝奶茶<br>2.03 KiB | 028 兔耳朵<br>2.47 KiB |
+| <img src="emoji/animated/029_energized.gif" width="48" alt="精神抖擞"> | <img src="emoji/animated/030_wide_eyes.gif" width="48" alt="瞪大眼"> | <img src="emoji/animated/031_popcorn.gif" width="48" alt="吃爆米花"> | <img src="emoji/animated/032_phone.gif" width="48" alt="玩手机"> |
+| 029 精神抖擞<br>3.05 KiB | 030 瞪大眼<br>3.58 KiB | 031 吃爆米花<br>3.84 KiB | 032 玩手机<br>4.41 KiB |
+
+## 接入方式
+
+- 客户端内置 `emoji/static/` 和 `manifest.json`；支持 GIF 时内置 `emoji/animated/`。
+- 聊天仅发送稳定表情 ID，例如 `{"type":"emoji","id":10}`。服务端校验 ID 白名单、消息频率和发送权限，不接收玩家提供的任意图片 URL。
+- 显示建议：32–48 px，按原图比例显示，不强制拉伸。原图低分辨率或白底时须检查深色聊天背景效果。
+- GIF 解码能力因引擎而异，发布前测试帧率、内存占用和播放上限；不支持 GIF 时隐藏动态表情入口。
+- 新增表情只追加 ID，不能重用旧 ID；客户端遇到未知 ID 时显示占位符。
+- `manifest.json`：完整机器可读 ID、路径、中文名、源文件、格式和字节数。实际包体取决于游戏引擎的导入和压缩方式。
+
+## 版权与来源
+
+源仓库声明 Apache-2.0，来源项目为 [getActivity/EmojiPackage](https://github.com/getActivity/EmojiPackage)。本库保留原仓库 LICENSE，但不能确认收集的第三方图片原作者或商业授权。原许可证仅在其适用范围内有效，不构成对第三方图片的额外授权。请勿未经权利核实直接用于正式商业发布。
