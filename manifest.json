@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "source_repository": "https://github.com/wangmiao033/EmojiPackage",
   "source_commit": "6110519a8340b36ae3497c4b062292ca25291b61",
   "license_status": "third-party assets; commercial rights unverified",
-  "count": 32,
-  "static_count": 24,
-  "animated_count": 8,
-  "total_bytes": 61610,
-  "static_bytes": 37716,
-  "animated_bytes": 23894,
+  "count": 100,
+  "static_count": 85,
+  "animated_count": 15,
+  "total_bytes": 285776,
+  "static_bytes": 227014,
+  "animated_bytes": 58762,
   "items": [
     {
       "id": 1,
@@ -18,7 +18,8 @@
       "format": "jpg",
       "bytes": 1097,
       "path": "emoji/static/001_eat_melon.jpg",
-      "source_path": "小鹦鹉/吃瓜.jpg"
+      "source_path": "小鹦鹉/吃瓜.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
       "format": "jpg",
       "bytes": 1100,
       "path": "emoji/static/002_think.jpg",
-      "source_path": "小鹦鹉/思考.jpg"
+      "source_path": "小鹦鹉/思考.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 3,
@@ -38,7 +40,8 @@
       "format": "jpg",
       "bytes": 1282,
       "path": "emoji/static/003_surprised.jpg",
-      "source_path": "小鹦鹉/吃惊.jpg"
+      "source_path": "小鹦鹉/吃惊.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 4,
@@ -48,7 +51,8 @@
       "format": "jpg",
       "bytes": 1144,
       "path": "emoji/static/004_stunned.jpg",
-      "source_path": "小鹦鹉/呆滞.jpg"
+      "source_path": "小鹦鹉/呆滞.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 5,
@@ -58,7 +62,8 @@
       "format": "jpg",
       "bytes": 1606,
       "path": "emoji/static/005_like.jpg",
-      "source_path": "小鹦鹉/喜欢.jpg"
+      "source_path": "小鹦鹉/喜欢.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "format": "jpg",
       "bytes": 1409,
       "path": "emoji/static/006_sad.jpg",
-      "source_path": "小鹦鹉/伤心.jpg"
+      "source_path": "小鹦鹉/伤心.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 7,
@@ -78,7 +84,8 @@
       "format": "jpg",
       "bytes": 1258,
       "path": "emoji/static/007_cry.jpg",
-      "source_path": "小鹦鹉/大哭.jpg"
+      "source_path": "小鹦鹉/大哭.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 8,
@@ -88,7 +95,8 @@
       "format": "jpg",
       "bytes": 1248,
       "path": "emoji/static/008_smirk.jpg",
-      "source_path": "小鹦鹉/坏笑.jpg"
+      "source_path": "小鹦鹉/坏笑.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 9,
@@ -98,7 +106,8 @@
       "format": "jpg",
       "bytes": 1278,
       "path": "emoji/static/009_expect.jpg",
-      "source_path": "小鹦鹉/期待.jpg"
+      "source_path": "小鹦鹉/期待.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 10,
@@ -108,7 +117,8 @@
       "format": "jpg",
       "bytes": 1340,
       "path": "emoji/static/010_thumbs_up.jpg",
-      "source_path": "小鹦鹉/点赞.jpg"
+      "source_path": "小鹦鹉/点赞.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 11,
@@ -118,7 +128,8 @@
       "format": "jpg",
       "bytes": 1508,
       "path": "emoji/static/011_speechless.jpg",
-      "source_path": "小鹦鹉/无语.jpg"
+      "source_path": "小鹦鹉/无语.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 12,
@@ -128,7 +139,8 @@
       "format": "jpg",
       "bytes": 1346,
       "path": "emoji/static/012_sleepy.jpg",
-      "source_path": "小鹦鹉/犯困.jpg"
+      "source_path": "小鹦鹉/犯困.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 13,
@@ -138,7 +150,8 @@
       "format": "jpg",
       "bytes": 1277,
       "path": "emoji/static/013_sleep.jpg",
-      "source_path": "小鹦鹉/睡觉.jpg"
+      "source_path": "小鹦鹉/睡觉.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 14,
@@ -148,7 +161,8 @@
       "format": "jpg",
       "bytes": 2235,
       "path": "emoji/static/014_question.jpg",
-      "source_path": "小鹦鹉/问号.jpg"
+      "source_path": "小鹦鹉/问号.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 15,
@@ -158,7 +172,8 @@
       "format": "jpg",
       "bytes": 1731,
       "path": "emoji/static/015_doubt.jpg",
-      "source_path": "小鹦鹉/怀疑.jpg"
+      "source_path": "小鹦鹉/怀疑.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 16,
@@ -168,7 +183,8 @@
       "format": "jpg",
       "bytes": 1286,
       "path": "emoji/static/016_watch.jpg",
-      "source_path": "小鹦鹉/看着你.jpg"
+      "source_path": "小鹦鹉/看着你.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 17,
@@ -178,7 +194,8 @@
       "format": "png",
       "bytes": 2690,
       "path": "emoji/static/017_peek.png",
-      "source_path": "小鹦鹉/偷看.png"
+      "source_path": "小鹦鹉/偷看.png",
+      "category": "小鹦鹉"
     },
     {
       "id": 18,
@@ -188,7 +205,8 @@
       "format": "jpg",
       "bytes": 1357,
       "path": "emoji/static/018_drink_water.jpg",
-      "source_path": "小鹦鹉/喝水.jpg"
+      "source_path": "小鹦鹉/喝水.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 19,
@@ -198,7 +216,8 @@
       "format": "jpg",
       "bytes": 1313,
       "path": "emoji/static/019_noodles.jpg",
-      "source_path": "小鹦鹉/吃面.jpg"
+      "source_path": "小鹦鹉/吃面.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 20,
@@ -208,7 +227,8 @@
       "format": "jpg",
       "bytes": 1514,
       "path": "emoji/static/020_lie_flat.jpg",
-      "source_path": "小鹦鹉/躺平.jpg"
+      "source_path": "小鹦鹉/躺平.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 21,
@@ -218,7 +238,8 @@
       "format": "jpg",
       "bytes": 3535,
       "path": "emoji/static/021_cool.jpg",
-      "source_path": "小鹦鹉/耍酷.jpg"
+      "source_path": "小鹦鹉/耍酷.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 22,
@@ -228,7 +249,8 @@
       "format": "jpg",
       "bytes": 1373,
       "path": "emoji/static/022_freeze.jpg",
-      "source_path": "小鹦鹉/愣住.jpg"
+      "source_path": "小鹦鹉/愣住.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 23,
@@ -238,7 +260,8 @@
       "format": "jpg",
       "bytes": 1475,
       "path": "emoji/static/023_sob.jpg",
-      "source_path": "小鹦鹉/捂嘴哭.jpg"
+      "source_path": "小鹦鹉/捂嘴哭.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 24,
@@ -248,7 +271,8 @@
       "format": "jpg",
       "bytes": 2314,
       "path": "emoji/static/024_pinch_cheek.jpg",
-      "source_path": "小鹦鹉/捏脸.jpg"
+      "source_path": "小鹦鹉/捏脸.jpg",
+      "category": "小鹦鹉"
     },
     {
       "id": 25,
@@ -258,7 +282,8 @@
       "format": "gif",
       "bytes": 1985,
       "path": "emoji/animated/025_scratch_head.gif",
-      "source_path": "小鹦鹉/挠头.gif"
+      "source_path": "小鹦鹉/挠头.gif",
+      "category": "小鹦鹉"
     },
     {
       "id": 26,
@@ -268,7 +293,8 @@
       "format": "gif",
       "bytes": 2068,
       "path": "emoji/animated/026_wave_balloon.gif",
-      "source_path": "小鹦鹉/摇气球.gif"
+      "source_path": "小鹦鹉/摇气球.gif",
+      "category": "小鹦鹉"
     },
     {
       "id": 27,
@@ -278,7 +304,8 @@
       "format": "gif",
       "bytes": 2078,
       "path": "emoji/animated/027_milk_tea.gif",
-      "source_path": "小鹦鹉/喝奶茶.gif"
+      "source_path": "小鹦鹉/喝奶茶.gif",
+      "category": "小鹦鹉"
     },
     {
       "id": 28,
@@ -288,7 +315,8 @@
       "format": "gif",
       "bytes": 2531,
       "path": "emoji/animated/028_rabbit_ears.gif",
-      "source_path": "小鹦鹉/兔耳朵.gif"
+      "source_path": "小鹦鹉/兔耳朵.gif",
+      "category": "小鹦鹉"
     },
     {
       "id": 29,
@@ -298,7 +326,8 @@
       "format": "gif",
       "bytes": 3122,
       "path": "emoji/animated/029_energized.gif",
-      "source_path": "小鹦鹉/精神抖擞.gif"
+      "source_path": "小鹦鹉/精神抖擞.gif",
+      "category": "小鹦鹉"
     },
     {
       "id": 30,
@@ -308,7 +337,8 @@
       "format": "gif",
       "bytes": 3664,
       "path": "emoji/animated/030_wide_eyes.gif",
-      "source_path": "小鹦鹉/瞪大眼.gif"
+      "source_path": "小鹦鹉/瞪大眼.gif",
+      "category": "小鹦鹉"
     },
     {
       "id": 31,
@@ -318,7 +348,8 @@
       "format": "gif",
       "bytes": 3929,
       "path": "emoji/animated/031_popcorn.gif",
-      "source_path": "小鹦鹉/吃爆米花.gif"
+      "source_path": "小鹦鹉/吃爆米花.gif",
+      "category": "小鹦鹉"
     },
     {
       "id": 32,
@@ -328,7 +359,780 @@
       "format": "gif",
       "bytes": 4517,
       "path": "emoji/animated/032_phone.gif",
-      "source_path": "小鹦鹉/玩手机.gif"
+      "source_path": "小鹦鹉/玩手机.gif",
+      "category": "小鹦鹉"
+    },
+    {
+      "id": 33,
+      "key": "annoyed",
+      "name_zh": "不爽",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1086,
+      "path": "emoji/static/033_annoyed.jpg",
+      "source_path": "小鹦鹉/不爽.jpg"
+    },
+    {
+      "id": 34,
+      "key": "nibble",
+      "name_zh": "吃手手",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1102,
+      "path": "emoji/static/034_nibble.jpg",
+      "source_path": "小鹦鹉/吃手手.jpg"
+    },
+    {
+      "id": 35,
+      "key": "side_eye",
+      "name_zh": "斜眼看",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1156,
+      "path": "emoji/static/035_side_eye.jpg",
+      "source_path": "小鹦鹉/斜眼看.jpg"
+    },
+    {
+      "id": 36,
+      "key": "daydream",
+      "name_zh": "幻想",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1184,
+      "path": "emoji/static/036_daydream.jpg",
+      "source_path": "小鹦鹉/幻想.jpg"
+    },
+    {
+      "id": 37,
+      "key": "zoom_in",
+      "name_zh": "放大看",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1260,
+      "path": "emoji/static/037_zoom_in.jpg",
+      "source_path": "小鹦鹉/放大看.jpg"
+    },
+    {
+      "id": 38,
+      "key": "squint",
+      "name_zh": "瞪小眼",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1322,
+      "path": "emoji/static/038_squint.jpg",
+      "source_path": "小鹦鹉/瞪小眼.jpg"
+    },
+    {
+      "id": 39,
+      "key": "mischief",
+      "name_zh": "鬼魅一笑",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1323,
+      "path": "emoji/static/039_mischief.jpg",
+      "source_path": "小鹦鹉/鬼魅一笑.jpg"
+    },
+    {
+      "id": 40,
+      "key": "headache",
+      "name_zh": "脑壳疼",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1399,
+      "path": "emoji/static/040_headache.jpg",
+      "source_path": "小鹦鹉/脑壳疼.jpg"
+    },
+    {
+      "id": 41,
+      "key": "balloon",
+      "name_zh": "手拿气球",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1482,
+      "path": "emoji/static/041_balloon.jpg",
+      "source_path": "小鹦鹉/手拿气球.jpg"
+    },
+    {
+      "id": 42,
+      "key": "chicken",
+      "name_zh": "吃鸡",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1515,
+      "path": "emoji/static/042_chicken.jpg",
+      "source_path": "小鹦鹉/吃鸡.jpg"
+    },
+    {
+      "id": 43,
+      "key": "wink",
+      "name_zh": "抛媚眼",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1588,
+      "path": "emoji/static/043_wink.jpg",
+      "source_path": "小鹦鹉/抛媚眼.jpg"
+    },
+    {
+      "id": 44,
+      "key": "whimper",
+      "name_zh": "嘤嘤嘤",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1672,
+      "path": "emoji/static/044_whimper.jpg",
+      "source_path": "小鹦鹉/嘤嘤嘤.jpg"
+    },
+    {
+      "id": 45,
+      "key": "umbrella",
+      "name_zh": "打伞",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1731,
+      "path": "emoji/static/045_umbrella.jpg",
+      "source_path": "小鹦鹉/打伞.jpg"
+    },
+    {
+      "id": 46,
+      "key": "milk",
+      "name_zh": "喝牛奶",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "png",
+      "bytes": 3089,
+      "path": "emoji/static/046_milk.png",
+      "source_path": "小鹦鹉/喝牛奶.png"
+    },
+    {
+      "id": 47,
+      "key": "long_hair",
+      "name_zh": "长发飘飘",
+      "category": "小鹦鹉",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 2412,
+      "path": "emoji/animated/047_long_hair.gif",
+      "source_path": "小鹦鹉/长发飘飘.gif"
+    },
+    {
+      "id": 48,
+      "key": "wave_feather",
+      "name_zh": "摇鸡毛",
+      "category": "小鹦鹉",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 3662,
+      "path": "emoji/animated/048_wave_feather.gif",
+      "source_path": "小鹦鹉/摇鸡毛.gif"
+    },
+    {
+      "id": 49,
+      "key": "little_hearts",
+      "name_zh": "小心心",
+      "category": "小鹦鹉",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 6265,
+      "path": "emoji/animated/049_little_hearts.gif",
+      "source_path": "小鹦鹉/小心心.gif"
+    },
+    {
+      "id": 50,
+      "key": "hula_hoop",
+      "name_zh": "转呼啦圈",
+      "category": "小鹦鹉",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 6479,
+      "path": "emoji/animated/050_hula_hoop.gif",
+      "source_path": "小鹦鹉/转呼啦圈.gif"
+    },
+    {
+      "id": 51,
+      "key": "spinning_eyes",
+      "name_zh": "眼睛旋转",
+      "category": "小鹦鹉",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 7285,
+      "path": "emoji/animated/051_spinning_eyes.gif",
+      "source_path": "小鹦鹉/眼睛旋转.gif"
+    },
+    {
+      "id": 52,
+      "key": "eager",
+      "name_zh": "跃跃欲试",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpeg",
+      "bytes": 5644,
+      "path": "emoji/static/052_eager.jpeg",
+      "source_path": "小鹦鹉/跃跃欲试.jpeg"
+    },
+    {
+      "id": 53,
+      "key": "unbelievable",
+      "name_zh": "不可思议",
+      "category": "小鹦鹉",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 7431,
+      "path": "emoji/static/053_unbelievable.jpg",
+      "source_path": "小鹦鹉/不可思议.jpg"
+    },
+    {
+      "id": 54,
+      "key": "surrender",
+      "name_zh": "投降",
+      "category": "滑稽",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 741,
+      "path": "emoji/static/054_surrender.jpg",
+      "source_path": "滑稽/投降.jpg"
+    },
+    {
+      "id": 55,
+      "key": "take_blame",
+      "name_zh": "背锅",
+      "category": "滑稽",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1085,
+      "path": "emoji/static/055_take_blame.jpg",
+      "source_path": "滑稽/背锅.jpg"
+    },
+    {
+      "id": 56,
+      "key": "timid",
+      "name_zh": "超怂",
+      "category": "滑稽",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1229,
+      "path": "emoji/static/056_timid.jpg",
+      "source_path": "滑稽/超怂.jpg"
+    },
+    {
+      "id": 57,
+      "key": "shocked",
+      "name_zh": "震惊",
+      "category": "滑稽",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1645,
+      "path": "emoji/static/057_shocked.jpg",
+      "source_path": "滑稽/震惊.jpg"
+    },
+    {
+      "id": 58,
+      "key": "give_up",
+      "name_zh": "放弃挣扎",
+      "category": "滑稽",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1850,
+      "path": "emoji/static/058_give_up.jpg",
+      "source_path": "滑稽/放弃挣扎.jpg"
+    },
+    {
+      "id": 59,
+      "key": "frightened",
+      "name_zh": "惊吓",
+      "category": "滑稽",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 2153,
+      "path": "emoji/static/059_frightened.jpg",
+      "source_path": "滑稽/惊吓.jpg"
+    },
+    {
+      "id": 60,
+      "key": "big_shot_appears",
+      "name_zh": "不好，是大佬",
+      "category": "滑稽",
+      "type": "static",
+      "format": "png",
+      "bytes": 2170,
+      "path": "emoji/static/060_big_shot_appears.png",
+      "source_path": "滑稽/不好，是大佬.png"
+    },
+    {
+      "id": 61,
+      "key": "look_away",
+      "name_zh": "别看，会学坏",
+      "category": "滑稽",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 2286,
+      "path": "emoji/static/061_look_away.jpg",
+      "source_path": "滑稽/别看，会学坏.jpg"
+    },
+    {
+      "id": 62,
+      "key": "not_listening",
+      "name_zh": "我不听",
+      "category": "滑稽",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 2388,
+      "path": "emoji/static/062_not_listening.jpg",
+      "source_path": "滑稽/我不听.jpg"
+    },
+    {
+      "id": 63,
+      "key": "hug",
+      "name_zh": "抱抱",
+      "category": "滑稽",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 2846,
+      "path": "emoji/animated/063_hug.gif",
+      "source_path": "滑稽/抱抱.gif"
+    },
+    {
+      "id": 64,
+      "key": "admit_defeat",
+      "name_zh": "技不如人，甘拜下风",
+      "category": "滑稽",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 3215,
+      "path": "emoji/static/064_admit_defeat.jpg",
+      "source_path": "滑稽/技不如人，甘拜下风.jpg"
+    },
+    {
+      "id": 65,
+      "key": "serious",
+      "name_zh": "严肃点",
+      "category": "滑稽",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 3560,
+      "path": "emoji/static/065_serious.jpg",
+      "source_path": "滑稽/严肃点.jpg"
+    },
+    {
+      "id": 66,
+      "key": "sigh",
+      "name_zh": "叹气",
+      "category": "滑稽",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 3714,
+      "path": "emoji/static/066_sigh.jpg",
+      "source_path": "滑稽/叹气.jpg"
+    },
+    {
+      "id": 67,
+      "key": "funny_face",
+      "name_zh": "滑稽",
+      "category": "滑稽",
+      "type": "static",
+      "format": "png",
+      "bytes": 7607,
+      "path": "emoji/static/067_funny_face.png",
+      "source_path": "滑稽/滑稽.png"
+    },
+    {
+      "id": 68,
+      "key": "take_notes",
+      "name_zh": "拿小本记下来",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1426,
+      "path": "emoji/static/068_take_notes.jpg",
+      "source_path": "回答/拿小本记下来.jpg"
+    },
+    {
+      "id": 69,
+      "key": "puzzled",
+      "name_zh": "真是让人摸不着头脑",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1983,
+      "path": "emoji/static/069_puzzled.jpg",
+      "source_path": "回答/真是让人摸不着头脑.jpg"
+    },
+    {
+      "id": 70,
+      "key": "expert",
+      "name_zh": "高手，看不透",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 2442,
+      "path": "emoji/static/070_expert.jpg",
+      "source_path": "回答/高手，看不透.jpg"
+    },
+    {
+      "id": 71,
+      "key": "ok",
+      "name_zh": "OK",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 2532,
+      "path": "emoji/static/071_ok.jpg",
+      "source_path": "回答/OK.jpg"
+    },
+    {
+      "id": 72,
+      "key": "details",
+      "name_zh": "又是一个小细节",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 3266,
+      "path": "emoji/static/072_details.jpg",
+      "source_path": "回答/又是一个小细节.jpg"
+    },
+    {
+      "id": 73,
+      "key": "here_again",
+      "name_zh": "又来了又来了",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 3573,
+      "path": "emoji/static/073_here_again.jpg",
+      "source_path": "回答/又来了又来了.jpg"
+    },
+    {
+      "id": 74,
+      "key": "oh_my",
+      "name_zh": "我的天呐",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 3660,
+      "path": "emoji/static/074_oh_my.jpg",
+      "source_path": "回答/我的天呐.jpg"
+    },
+    {
+      "id": 75,
+      "key": "at_a_loss",
+      "name_zh": "一时语塞",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 4583,
+      "path": "emoji/static/075_at_a_loss.jpg",
+      "source_path": "回答/一时语塞.jpg"
+    },
+    {
+      "id": 76,
+      "key": "not_possible",
+      "name_zh": "不存在的",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 4911,
+      "path": "emoji/static/076_not_possible.jpg",
+      "source_path": "回答/不存在的.jpg"
+    },
+    {
+      "id": 77,
+      "key": "laugh_it_off",
+      "name_zh": "一笑而过",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "png",
+      "bytes": 5137,
+      "path": "emoji/static/077_laugh_it_off.png",
+      "source_path": "回答/一笑而过.png"
+    },
+    {
+      "id": 78,
+      "key": "offer_tea",
+      "name_zh": "给大佬递茶",
+      "category": "组队与大佬",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1607,
+      "path": "emoji/static/078_offer_tea.jpg",
+      "source_path": "大佬/给大佬递茶.jpg"
+    },
+    {
+      "id": 79,
+      "key": "carry_me",
+      "name_zh": "大佬，带我，我会喊666",
+      "category": "组队与大佬",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 3745,
+      "path": "emoji/static/079_carry_me.jpg",
+      "source_path": "大佬/大佬，带我，我会喊666.jpg"
+    },
+    {
+      "id": 80,
+      "key": "offer_cola",
+      "name_zh": "给大佬递可乐B",
+      "category": "组队与大佬",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 4312,
+      "path": "emoji/static/080_offer_cola.jpg",
+      "source_path": "大佬/给大佬递可乐B.jpg"
+    },
+    {
+      "id": 81,
+      "key": "among_experts",
+      "name_zh": "面对一群大佬瑟瑟发抖",
+      "category": "组队与大佬",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 4970,
+      "path": "emoji/static/081_among_experts.jpg",
+      "source_path": "大佬/面对一群大佬瑟瑟发抖.jpg"
+    },
+    {
+      "id": 82,
+      "key": "expert_notes",
+      "name_zh": "大佬讲话，赶紧做笔记",
+      "category": "组队与大佬",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 6078,
+      "path": "emoji/static/082_expert_notes.jpg",
+      "source_path": "大佬/大佬讲话，赶紧做笔记.jpg"
+    },
+    {
+      "id": 83,
+      "key": "thumbs_up_sketch",
+      "name_zh": "竖大拇指",
+      "category": "夸奖与点赞",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 545,
+      "path": "emoji/static/083_thumbs_up_sketch.jpg",
+      "source_path": "夸奖/竖大拇指.jpg"
+    },
+    {
+      "id": 84,
+      "key": "six",
+      "name_zh": "六",
+      "category": "夸奖与点赞",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1605,
+      "path": "emoji/static/084_six.jpg",
+      "source_path": "夸奖/六.jpg"
+    },
+    {
+      "id": 85,
+      "key": "full_marks",
+      "name_zh": "满分",
+      "category": "夸奖与点赞",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 2505,
+      "path": "emoji/static/085_full_marks.jpg",
+      "source_path": "夸奖/满分.jpg"
+    },
+    {
+      "id": 86,
+      "key": "great",
+      "name_zh": "真好",
+      "category": "夸奖与点赞",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 2867,
+      "path": "emoji/static/086_great.jpg",
+      "source_path": "夸奖/真好.jpg"
+    },
+    {
+      "id": 87,
+      "key": "nice_play",
+      "name_zh": "666",
+      "category": "夸奖与点赞",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 2975,
+      "path": "emoji/static/087_nice_play.jpg",
+      "source_path": "夸奖/666.jpg"
+    },
+    {
+      "id": 88,
+      "key": "excellent_grade",
+      "name_zh": "一级棒",
+      "category": "夸奖与点赞",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 3370,
+      "path": "emoji/static/088_excellent_grade.jpg",
+      "source_path": "夸奖/一级棒.jpg"
+    },
+    {
+      "id": 89,
+      "key": "brilliant",
+      "name_zh": "妙",
+      "category": "夸奖与点赞",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 5182,
+      "path": "emoji/static/089_brilliant.jpg",
+      "source_path": "夸奖/妙.jpg"
+    },
+    {
+      "id": 90,
+      "key": "excellent",
+      "name_zh": "优秀",
+      "category": "夸奖与点赞",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 5185,
+      "path": "emoji/static/090_excellent.jpg",
+      "source_path": "夸奖/优秀.jpg"
+    },
+    {
+      "id": 91,
+      "key": "flowers",
+      "name_zh": "小花花送给你",
+      "category": "夸奖与点赞",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 6454,
+      "path": "emoji/static/091_flowers.jpg",
+      "source_path": "夸奖/小花花送给你.jpg"
+    },
+    {
+      "id": 92,
+      "key": "noob",
+      "name_zh": "对不起，我是全群最菜的",
+      "category": "组队与大佬",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 4812,
+      "path": "emoji/static/092_noob.jpg",
+      "source_path": "群聊/对不起，我是全群最菜的.jpg"
+    },
+    {
+      "id": 93,
+      "key": "thanks_boss",
+      "name_zh": "谢谢老板",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 4798,
+      "path": "emoji/static/093_thanks_boss.jpg",
+      "source_path": "红包/谢谢老板.jpg"
+    },
+    {
+      "id": 94,
+      "key": "too_kind",
+      "name_zh": "哎呀，使不得",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 5574,
+      "path": "emoji/static/094_too_kind.jpg",
+      "source_path": "红包/哎呀，使不得.jpg"
+    },
+    {
+      "id": 95,
+      "key": "arranged",
+      "name_zh": "安排",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 4278,
+      "path": "emoji/static/095_arranged.jpg",
+      "source_path": "安排/安排.jpg"
+    },
+    {
+      "id": 96,
+      "key": "happy",
+      "name_zh": "快乐",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 1722,
+      "path": "emoji/static/096_happy.jpg",
+      "source_path": "文字/快乐.jpg"
+    },
+    {
+      "id": 97,
+      "key": "blush",
+      "name_zh": "脸红",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 3633,
+      "path": "emoji/static/097_blush.jpg",
+      "source_path": "文字/脸红.jpg"
+    },
+    {
+      "id": 98,
+      "key": "go_on",
+      "name_zh": "继续继续",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 4589,
+      "path": "emoji/static/098_go_on.jpg",
+      "source_path": "敷衍/继续继续.jpg"
+    },
+    {
+      "id": 99,
+      "key": "scared",
+      "name_zh": "害怕",
+      "category": "聊天互动",
+      "type": "animated",
+      "format": "gif",
+      "bytes": 5919,
+      "path": "emoji/animated/099_scared.gif",
+      "source_path": "害怕/害怕.gif"
+    },
+    {
+      "id": 100,
+      "key": "logging_in",
+      "name_zh": "我正在飞速登录",
+      "category": "聊天互动",
+      "type": "static",
+      "format": "jpg",
+      "bytes": 7352,
+      "path": "emoji/static/100_logging_in.jpg",
+      "source_path": "鸽子/我正在飞速登录.jpg"
+    }
+  ],
+  "max_image_bytes": 7607,
+  "images_at_most_5_kib": 86,
+  "categories": [
+    {
+      "name": "小鹦鹉",
+      "count": 53
+    },
+    {
+      "name": "滑稽",
+      "count": 14
+    },
+    {
+      "name": "聊天互动",
+      "count": 18
+    },
+    {
+      "name": "组队与大佬",
+      "count": 6
+    },
+    {
+      "name": "夸奖与点赞",
+      "count": 9
     }
   ]
 }
